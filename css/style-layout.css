@@ -1,0 +1,426 @@
+@media screen and (min-width: 1024px) and (max-width: 1620px) {
+  .karkas {
+    width: 80%;
+  }
+  .a {
+    width: 320px;    
+  }
+  .form {
+    width: 320px;
+  }
+  .label{
+    width: 310px;
+  }
+  .name {
+    width: 320px;
+  }
+  .name1 {
+    width: 316px;
+  }
+  .textarea {
+    width: 320px;
+  }
+  .maps-wrap {
+    width: 372px;
+    height: 504px;
+  }
+  .buttonform {
+    padding: .5em 2em;
+    font-size: 1rem;
+  }
+  .tab {
+    width: 200px;
+    min-height: 150vh;
+  }
+  .tab button{
+    width: 200px;
+  }
+  a.button24 {
+    padding: .5em 1.6em;
+  }
+  .a {
+    padding:25px;   
+  }
+  .kontcol {
+    width: 250px;
+  }
+  .kkk {
+    font-size: 0.8rem;
+  }
+  .kkk p {
+    font-size: 1.1rem;
+  }
+  .kontact_down {
+    font-size: 1.2rem;
+  }
+  .li2 {
+    margin-right: 95px; 
+  }
+  .li3 {
+    margin-left: 95px; 
+  }
+}  
+@media (min-width: 768px) and (max-width: 1023px) {
+  .karkas,.karkas1 {
+    width: 100%;
+  }
+  .logo {
+    text-align: center;
+    margin-top: 80px;
+  }
+  .logo img{
+    width: 90px;
+  }
+  header nav ul {
+    display: flex;
+    justify-content: space-around;
+    margin-top: -140px;
+    height: 40px;
+    padding-top: 0;
+    padding-bottom: 2px;
+  }
+  .li {
+    padding: 0 5px;
+  }
+  .li2 {
+    margin-right: 5px; 
+  }
+  .li3 {
+    margin-left: 5px; 
+  }
+  .tab {
+    width: 150px;
+    min-height: 150vh;
+  }
+  .tab button{
+    width: 150px;
+    font-size: 1em;
+  }
+  .tabcontent p {
+    font-size: 0.8em; 
+  }	
+  .main {
+    max-width: 40%;
+  }
+  .main_title {
+	  font-size: 1.7em;
+  }
+  .text_sertif{
+	  font-size: 1.5em;
+  }
+ .ul_text {
+	  margin-left: 20px;
+  }
+  .foot {
+    font-size: 0.9rem;
+  }
+  .footline1, .footline2 {
+    height: 15px;
+  }
+  .kontcol {
+    width: 185px;
+  }
+  .kkk {
+    font-size: 0.65rem;
+  }
+  .kkk p {
+    font-size: 0.9rem;
+  }
+  .kontact_down {
+    font-size: 1rem;
+  }
+  .li {
+    width: 101px;
+    height: 39px;
+    margin-top: -5px;
+    font-size: 18px;
+  }
+}
+@media (min-width: 581px) and (max-width: 767px) {
+  .karkas,.karkas1 {
+    width: 100%;
+  }
+  .logo {
+    text-align: center;
+    margin-top: 80px;
+  }
+  .logo img{
+    width: 90px;
+  }
+  header nav ul {
+    display: flex;
+    justify-content: space-around;
+    margin-top: -140px;
+    height: 30px;
+    padding-top: 0;
+    padding-bottom: 4px;
+  }
+  .li {
+    padding: 0 2px;
+  }
+  .li2 {
+    margin-right: 2px; 
+  }
+  .li3 {
+    margin-left: 2px; 
+  }
+  .tab {
+    width: 120px;
+    min-height: 150vh;
+  }
+  .tab button{
+    width: 120px;
+    font-size: 0.9em;
+  }
+  .tabcontent p {
+    font-size: 0.8em; 
+  }	
+  .fly-in-text-1 li {
+    font-size: 1.2em;
+  }
+  .center {
+	  font-size: 1.2em;
+  }
+  .H, .H2, .H5, .H6 {
+    font-size: 1.5em;
+  }
+  #type_text {
+    font-size: 1.1em;
+  } 
+  .main {
+    max-width: 40%;
+  }  
+  .main_title {
+	  font-size: 1.4em;
+  }   
+  .text_sertif{
+	  font-size: 1.1em;
+  }
+  .ul_text {
+	  margin-left: 20px;
+  }
+  .foot {
+    font-size: 0.7rem;
+  }
+ .footb {
+  font-size: 0.6em;
+  }
+  .footline1, .footline2 {
+    height: 12px;
+  }
+  .kontcol {
+    width: 150px;
+  }
+  .kkk {
+    font-size: 0.55rem;
+  }
+  .kkk p {
+    font-size: 0.65rem;
+  }
+  .kontact_down {
+    font-size: 0.8rem;
+  }
+  .li {
+    width: 88px;
+    height: 30px;
+    margin-top: -4px;
+    font-size: 16px;
+  }
+}
+@media (min-width: 310px) and (max-width: 580px) {
+  .karkas,.karkas1 {
+    width: 100%;
+  }
+  .karkas1 {
+	  overflow-x: hidden;
+  }
+  .logo {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: -65px;
+  }
+  .logo img{
+    width: 90px;
+  }
+  .main {
+    max-width: 65%;
+  } 
+  .nav {
+    position: absolute;
+    left: 0;
+    right: 0;
+    display: none;
+    margin-top: 0.1px;
+    height: 180px;
+    padding-top: 0;
+    padding-bottom: 4px;
+  }
+  header nav ul {
+    background-color: rgba(252, 252, 252, 0.205);
+  }
+  .touch-menu {
+    display: block;
+    text-align: end;
+    color: rgb(255, 255, 255);
+    background: rgba(0, 0, 255, 1);
+  }   
+  .tab {
+    width: 90px;
+    min-height: 150vh;
+  }
+  .tab button{
+    width: 90px;
+    font-size: 0.7em;
+    padding: 11px 8px;
+  }
+  .tabcontent {
+    padding: 0px;
+    border-left: none;
+    min-height: 150vh;
+  }
+  .tabcontent p {
+    padding-top: 10px;
+    font-size: 0.5em; 
+  }
+  .center-1 {
+   	font-size: 1.7em;
+  }
+  .main_title {
+	  font-size: 1.2em;
+  } 
+  .text_sertif{
+	  font-size: 1em;
+  }
+  .text-team-first {
+    font-size: 0.8em;
+  }
+  .H, .H2, .H5, .H6 {
+    font-size: 1.2em;
+  }
+  #type_text {
+    font-size: 1em;
+  }
+  .pro {
+    font-size: 1.5em;
+  }	
+  .pro2 {
+    padding: 0px;
+    font-size: 1.5em;
+  }
+  .text-team {
+	  font-size: 1em;
+	  margin: 0 5px;
+  }
+  .text_sertif_1 {
+	  font-size: 1em;
+	  margin: 0 5px;
+  }
+  .ul_text {
+	  font-size: 1em;
+	  margin: 0 5px 0 20px;
+  }
+  #type_text {
+	  margin: 0 5px;
+    font-size: 1em;
+  }
+  .fotos {
+    width: 240px;
+  }
+  .a {
+    width: 260px;
+    height: 425px;
+    padding: 10px;
+  }
+  .name1 {
+    width: 256px;
+    height: 25px;
+    font-size: 1rem;
+  }
+  .name {
+    width: 260px;
+    height: 30px;
+    font-size: 1rem;
+  }
+  .textarea {
+    width: 260px;
+    height: 130px;
+    font-size: 1.3rem;
+  }
+  .input_1[type=text], select, textarea {
+    padding: 0px;
+    margin-bottom: 6px;
+  }
+  .form {
+    width: 260px;
+  }
+  .buttonform {
+    padding: .5em 1em;
+    font-size: 1.1rem;
+  }
+  .maps-wrap {
+    height: 449px;
+    width: 284px;
+  }	
+  .foot {
+    font-size: 0.6rem;
+    padding: 0;
+  }
+  .foot2 {
+    order: 1;
+    margin-bottom: 10px;
+  }
+  .foot1 {
+    order: 2;
+  }
+  .foot3 {
+    order: 3;
+  }    
+  .foot2 {
+    width: 100%;
+  }
+  .footb {
+    font-size: 0.6em;
+  }
+  .footline1, .footline2 {
+    height: 8px;
+  }
+  .kontcol {
+    width: 290px;
+  }
+  .footh2 {
+    font-size: 18px;
+  }
+  .li {
+    width: 100%;
+    height: 25px;
+    margin-top: 0px;
+    font-size: 14px;
+    color: rgba(0, 0, 255, 1);
+    padding: 0 2px;
+  }
+  .li:hover {
+    color: rgb(105, 105, 105);
+    border-bottom: 4px solid rgb(105, 105, 105);
+  }
+  .li2 {
+    margin-right: 0px;
+    padding-right: 0px;
+  }
+  .li3 {
+    margin-left: 0px;
+    padding-left: 0px;
+  }
+  .center {
+    padding-top: 200px;
+    font-size: 0.7em;
+  }
+  .fly-in-text li {
+    font-size: 2em;
+  }
+  .fly-in-text-1 li {
+    font-size: 2.3em;
+  }
+  .kontimg {
+  margin-top: 10px;
+  }
+}
